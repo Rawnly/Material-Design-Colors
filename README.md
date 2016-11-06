@@ -1,6 +1,5 @@
 # Material-Design-Colors
-Material Design Colors converted to SASS varialbes! 
-
+Set of Material Design palette (by Google) into SASS variables! 
 ##Usage
 Just `@import` the file and that's it!
 ```sass
