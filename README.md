@@ -14,13 +14,8 @@ Just `@import` the file and that's it!
 
 #### Example:
 <p align="center">
-<<<<<<< HEAD
   <img src="res/instructions.gif" />
-=======
-![alt text](res/instructions) 
->>>>>>> e7a26c31ca1c785295b8a183be3c6c0f9e16a812
 </p>
-![alt text](res/instructions) 
 
 ## Palette List
 * Red
