@@ -14,9 +14,8 @@ Just `@import` the file and that's it!
 
 #### Example:
 <p align="center">
-![alt text][logo]
+  <img src="res/instructions.gif" />
 </p>
-
 
 
 ## Palette List
@@ -41,7 +40,3 @@ Just `@import` the file and that's it!
 * Blue Gray
 * White
 * Black
-
-
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Instructions"
