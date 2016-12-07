@@ -14,7 +14,7 @@ Just `@import` the file and that's it!
 
 #### Example:
 <p align="center">
-  ![usage](res/instructions.gif)
+  ![usage](./res/instructions.gif)
 </p>
 
 
