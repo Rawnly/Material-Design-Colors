@@ -1,9 +1,13 @@
 # Material-Design-Colors
 Set of Material Design palette (by Google) into SASS variables!
 
-<video style="width: 100%;" loop="" preload="metadata" tabindex="0">
-<source src="https://material-design.storage.googleapis.com/publish/material_v_9/0Bzhp5Z4wHba3XzREV0lBeEZfWVE/Palette Perfect How Material Design Makes Color Easy.mp4" type="video/mp4">
-</video>
+
+|  Index  |
+| :---: |
+| [USAGE](https://github.com/Rawnly/Material-Design-Colors-SASS#usage)  |
+|  [EXAMPLE](https://github.com/Rawnly/Material-Design-Colors-SASS#example)  |
+|  [EXTRA](https://github.com/Rawnly/Material-Design-Colors-SASS#extra)  | 
+
 
 ## Usage
 Just `@import` the file and that's it!
@@ -15,13 +19,12 @@ Just `@import` the file and that's it!
 
 ```
 
-
 #### Example:
 <p align="center">
   <img loop="-1" src="res/instructions.gif" />
 </p>
 
-## Palette List
+#### Palette List
 * Red
 * Pink
 * Purple
@@ -46,7 +49,7 @@ Just `@import` the file and that's it!
 
 # Extra
 * Coded with [Atom](https://atom.io)
-* Video & Palette source [here][source]
+* Palette source [here][source]
 
-
+<!-- URLS  -->
 [source]: https://material.google.com/style/color.html#
