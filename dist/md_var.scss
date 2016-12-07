@@ -1,4 +1,8 @@
-//Color Shades
+/*
+  Colors
+*/
+
+// RED
 $red-50:  #FFEBEE;
 $red-100: #FFCDD2;
 $red-200: #EF9A9A;
@@ -17,7 +21,7 @@ $red-A7:  #D50000;
 
 
 
-//Colors
+// PINK
 $pink-50: #FCE4EC;
 $pink-100:#F8BBD0;
 $pink-200:#F48FB1;
@@ -35,7 +39,7 @@ $pink-A4: #F50057;
 $pink-A7: #C51162;
 
 
-
+// PURPLE
 $purple-50:  #F3E5F5;
 $purple-100: #E1BEE7;
 $purple-200: #CE93D8;
@@ -53,7 +57,7 @@ $purple-A4:  #D500F9;
 $purple-A7:  #AA00FF;
 
 
-
+// DARK PURPLE
 $dPurple-50: #EDE7F6;
 $dPurple-100:#D1C4E9;
 $dPurple-200:#B39DDB;
@@ -71,7 +75,7 @@ $dPurple-A4: #651FFF;
 $dPurple-A7: #6200EA;
 
 
-
+// INDIGO
 $indigo-50: #E8EAF6;
 $indigo-100:#C5CAE9;
 $indigo-200:#9FA8DA;
@@ -89,7 +93,7 @@ $indigo-A4: #3D5AFE;
 $indigo-A7: #304FFE;
 
 
-
+// BLUE
 $blue-50: #E3F2FD;
 $blue-100:#BBDEFB;
 $blue-200:#90CAF9;
@@ -107,7 +111,7 @@ $blue-A4: #2979FF;
 $blue-A7: #2962FF;
 
 
-
+// LIGHT BLUE
 $lBlue-50: #E1F5FE;
 $lBlue-100:#B3E5FC;
 $lBlue-200:#81D4FA;
@@ -124,7 +128,7 @@ $lBlue-A4: #00B0FF;
 $lBlue-A7: #0091EA;
 
 
-
+// CYAN
 $cyan-50: #E0F7FA;
 $cyan-100:#B2EBF2;
 $cyan-200:#80DEEA;
@@ -141,7 +145,7 @@ $cyan-A4: #00E5FF;
 $cyan-A7: #00B8D4;
 
 
-
+// TEAL
 $teal-50: #E0F2F1;
 $teal-100:#B2DFDB;
 $teal-200:#80CBC4;
@@ -159,7 +163,7 @@ $teal-A4: #1DE9B6;
 $teal-A7: #00BFA5;
 
 
-
+// GREEN
 $green-50: #E8F5E9;
 $green-100:#C8E6C9;
 $green-200:#A5D6A7;
@@ -177,7 +181,7 @@ $green-A4: #00E676;
 $green-A7: #00C853;
 
 
-
+// LIGHT GREEN
 $lGreen-50: #F1F8E9;
 $lGreen-100:#DCEDC8;
 $lGreen-200:#C5E1A5;
@@ -195,7 +199,7 @@ $lGreen-A4: #76FF03;
 $lGreen-A7: #64DD17;
 
 
-
+// LIME
 $lime-50: #F9FBE7;
 $lime-100:#F0F4C3;
 $lime-200:#E6EE9C;
@@ -213,7 +217,7 @@ $lime-A4: #C6FF00;
 $lime-A7: #AEEA00;
 
 
-
+// YELLOW
 $yellow-50: #FFFDE7;
 $yellow-100:#FFF9C4;
 $yellow-200:#FFF59D;
@@ -231,7 +235,7 @@ $yellow-A4: #FFEA00;
 $yellow-A7: #FFD600;
 
 
-
+// AMBER
 $amber-50: #FFF8E1;
 $amber-100:#FFECB3;
 $amber-200:#FFE082;
@@ -249,7 +253,7 @@ $amber-A4: #FFC400;
 $amber-A7: #FFAB00;
 
 
-
+// ORANGE
 $orange-50: #FFF3E0;
 $orange-100:#FFE0B2;
 $orange-200:#FFCC80;
@@ -267,7 +271,7 @@ $orange-A4: #FF9100;
 $orange-A7: #FF6D00;
 
 
-
+// DARK ORANGE
 $dOrange-50: #FBE9E7;
 $dOrange-100:#FFCCBC;
 $dOrange-200:#FFAB91;
@@ -285,7 +289,7 @@ $dOrange-A4: #FF3D00;
 $dOrange-A7: #DD2C00;
 
 
-
+// BROWN
 $brown-50: #EFEBE9;
 $brown-100:#D7CCC8;
 $brown-200:#BCAAA4;
@@ -297,7 +301,7 @@ $brown-700:#5D4037;
 $brown-800:#4E342E;
 $brown-900:#3E2723;
 
-
+// GRAY
 $gray-50: #FAFAFA;
 $gray-100:#F5F5F5;
 $gray-200:#EEEEEE;
@@ -311,7 +315,7 @@ $gray-900:#212121;
 
 
 
-
+// BLUE GRAY
 $bgray-50: #ECEFF1;
 $bgray-100:#CFD8DC;
 $bgray-200:#B0BEC5;
@@ -324,6 +328,6 @@ $bgray-800:#37474F;
 $bgray-900:#263238;
 
 
-
+// BLACK & WHITE
 $black: #000;
 $white: #FFF;

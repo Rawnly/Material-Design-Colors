@@ -1,13 +1,43 @@
 # Material-Design-Colors
-Set of Material Design palette (by Google) into SASS variables! 
-##Usage
+Set of Material Design palette (by Google) into SASS variables!
+## Usage
+
 Just `@import` the file and that's it!
+
+#### Code:
 ```sass
+  // style.scss
   @import '../path/to/md_variables';
-  /*
-  your SASS/SCSS file next 
-  */
+
 ```
 
-#TODO
-- CSS file with pre made color classes (like [Coloraiz](http://github.com/webeproject/coloraiz.css))
+
+#### Example:
+<p align="center">
+  ![usage](res/instructions.gif)
+</p>
+
+
+
+## Palette List
+* Red
+* Pink
+* Purple
+* Dark Purple
+* Indigo
+* Blue
+* Light Blue
+* Cyan
+* Teal
+* Green
+* Light Green
+* Lime
+* Yellow
+* Amber
+* Orange
+* Dark Orange
+* Brown
+* Gray
+* Blue Gray
+* White
+* Black
