@@ -14,7 +14,7 @@ Just `@import` the file and that's it!
 
 #### Example:
 <p align="center">
-  ![usage](./res/instructions.gif)
+![alt text][logo]
 </p>
 
 
@@ -41,3 +41,7 @@ Just `@import` the file and that's it!
 * Blue Gray
 * White
 * Black
+
+
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Instructions"
